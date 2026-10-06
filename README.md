@@ -5,7 +5,9 @@
 ### Systems & Embedded Developer · Founder at [Lumeza](https://github.com/Lumeza-India) · Builder
 
 <p align="center">
-  <a href="https://twitter.com/IjlaalAkhtar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://x.com/IjlaalAkhtar"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/ijlaal_akhtar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.reddit.com/user/ijlaal/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://github.com/ijlaal1610"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Location-India-red?style=flat-square" alt="India" />
 </p>
