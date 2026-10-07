@@ -19,9 +19,9 @@
 ### 🚀 About Me
 
 - 🏍️ Currently engineering **[AEZEL](https://github.com/ijlaal1610/AEZEL)** — an open-source ESP32-S3 smart motorcycle platform & digital dashboard.
-- 🕹️ Architecting **[Lumeza Cyber Arcade](https://github.com/ijlaal1610/lumeza-cyber-arcade)** — browser-native AAA & retro gaming platform powered by WebAssembly.
 - ✍️ Building **[shayari-app](https://github.com/ijlaal1610/shayari-app)** — *Qalam & Diwan*, a distraction-free poetry archiving and composition app.
-- 💡 Passionate about **systems programming, firmware/IoT, low-level web engines (WASM), and clean software architecture**.
+- 🕹️ Architecting native WebAssembly & low-level emulation runtimes for in-browser high-performance computing.
+- 💡 Passionate about **systems programming, firmware/IoT, WASM runtimes, and clean software architecture**.
 - 🛠️ Founder of **Lumeza India**.
 
 ---
@@ -65,7 +65,6 @@
 ### 🌟 Featured Highlights
 
 * **[AEZEL](https://github.com/ijlaal1610/AEZEL)** — Modular Vehicle Control Unit (VCU) with real-time digital dashboard, ride telemetry, and OTA updates built on ESP32-S3.
-* **[Lumeza Cyber Arcade](https://github.com/ijlaal1610/lumeza-cyber-arcade)** — High-performance, self-hosted WebAssembly retro gaming platform running directly in browser memory.
 * **[shayari-app](https://github.com/ijlaal1610/shayari-app)** — *Qalam & Diwan*: Minimalist, distraction-free writing and archiving tool for poets and writers.
 
 ---
