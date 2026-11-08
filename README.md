@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🏍️ Currently engineering **[AEZEL](https://github.com/ijlaal1610/AEZEL)** — an open-source ESP32-S3 smart motorcycle platform & digital dashboard.
+- 🏍️ Currently engineering **[AEZEL](https://github.com/ijlaal1610/AEZEL)** — Universal open-source connected cockpit platform & VCU (Motorcycles, Scooters & Cars) with native Apple CarPlay, Android Auto & ESP32-P4 RISC-V.
 - ✍️ Building **[shayari-app](https://github.com/ijlaal1610/shayari-app)** — *Qalam & Diwan*, a distraction-free poetry archiving and composition app.
 - 🕹️ Architecting native WebAssembly & low-level emulation runtimes for in-browser high-performance computing.
 - 💡 Passionate about **systems programming, firmware/IoT, WASM runtimes, and clean software architecture**.
@@ -64,8 +64,26 @@
 
 ### 🌟 Featured Highlights
 
-* **[AEZEL](https://github.com/ijlaal1610/AEZEL)** — Modular Vehicle Control Unit (VCU) with real-time digital dashboard, ride telemetry, and OTA updates built on ESP32-S3.
+* **[AEZEL](https://github.com/ijlaal1610/AEZEL)** — Universal Vehicle Control Unit (VCU) & connected cockpit with 60 FPS LVGL cluster, real Google/Apple Maps HUD, CAN Bus / OBD-II, and three hardware tiers (ESP32-S3, ESP32-P4 RISC-V, and Raspberry Pi / LIVI). • **[Live Website & Simulator](https://ijlaal1610.github.io/AEZEL/)**
 * **[shayari-app](https://github.com/ijlaal1610/shayari-app)** — *Qalam & Diwan*: Minimalist, distraction-free writing and archiving tool for poets and writers.
+
+---
+
+### 💖 Support & Hardware Prototyping Fund
+
+If my open-source projects—especially **AEZEL**—have helped your custom EV/motorcycle build or inspired your work, sponsoring helps directly fund physical hardware prototyping:
+- 🔬 **ESP32-P4 RISC-V Silicon** & MIPI-DSI touch panels for native wireless Android Auto
+- 🏍️ **Physical 12V Motorcycle Harnesses** & opto-isolated bench testing rigs
+- 📡 **Dual-Band GNSS Modules** (u-blox NEO-M8N / M9N) & active patch antennas
+- 🔌 **Automotive CAN Bus Transceivers** (MCP2515 / TJA1050) for ECU reverse-engineering
+
+<p align="center">
+  <a href="https://github.com/sponsors/ijlaal1610"><img src="https://img.shields.io/badge/Sponsor_on_GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
+  &nbsp;
+  <a href="https://buymeacoffee.com/ijlaal"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+  &nbsp;
+  <a href="https://ko-fi.com/ijlaal"><img src="https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi" /></a>
+</p>
 
 ---
 
